@@ -1,0 +1,32 @@
+.h1{
+  font-size: 4em;
+  color: #000;
+  margin-bottom: 0px;
+}
+.a1{
+  color: #4F4F4F;
+  text-decoration: none;
+}
+.a{
+  color: #000;
+  text-decoration: none;
+}
+h1{
+  font-size: 1.8em;
+  color: #4F4F4F;
+}
+ul{
+  line-height: 1.6;
+  font-size: 1.3em;
+}
+body{
+  background-color:#FFFFD2;
+}
+strong{
+  padding-left: 10px;
+  font-size: 1.2em;
+}
+img{
+  padding-left: 10px;
+  padding-right: 10px;
+}
